@@ -20,7 +20,7 @@ Twitter Account: A Twitter account to access the Twitter home page.
 1. Clone the repository:
 
  ```sh
-git clone https://github.com/heyujjwal/Barsaati_films.git
+git clone https://github.com/Lucky-Fulara/stir-assistant.git
 ```
 2.Install the dependencies:
  ```sh
